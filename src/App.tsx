@@ -132,7 +132,7 @@ function App() {
                 Featured
               </div>
               <a href="https://chat-ai-eta-drab.vercel.app/">
-                <img src="./assets/image.png" alt="AI Wingman Chat App" className="w-full transition-transform hover:scale-105 duration-500" />
+                <img src="./image.png" alt="AI Wingman Chat App" className="w-full transition-transform hover:scale-105 duration-500" />
               </a>            
             </div>
             <div className="p-6">
@@ -150,7 +150,7 @@ function App() {
                 <span className="px-3 py-1 bg-sky-100 text-sky-800 rounded-full text-sm font-medium">LangChain</span>
                 <span className="px-3 py-1 bg-sky-100 text-sky-800 rounded-full text-sm font-medium">Gemini</span>
               </div>
-              <a href="https://ai-wingman-chat.vercel.app" className="text-orange-500 font-medium flex items-center hover:text-orange-600">
+              <a href="https://chat-ai-eta-drab.vercel.app/" className="text-orange-500 font-medium flex items-center hover:text-orange-600">
                 View Project 
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" />
